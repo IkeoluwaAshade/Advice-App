@@ -2,7 +2,7 @@
 
 ## [Live Site](https://lucky-parfait-eda707.netlify.app/)
 
-![Advice Me](https://media-exp1.licdn.com/dms/image/C4D22AQFTCuPce7JM-g/feedshare-shrink_2048_1536/0/1664854633117?e=1668038400&v=beta&t=B6uaWrrt9Pt2R-Zfj6eStOjXGH-Rki1SoaTXt9xG4EY)
+![Advice Me](https://pbs.twimg.com/media/FfKGVkGWAAAs8CY?format=jpg&name=medium)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
