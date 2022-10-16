@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Acknowledgement`
 
-The insight which i used in making this project was gotten from Chris Blakely in one of his Youtube tutorials.\
+The insight which i used in making this project was gotten from @adrianhajdin in one of his Youtube tutorials.\
 Open [Youtube](https://youtu.be/o5CdCETh8cQ) to view it in your browser.
 
 
